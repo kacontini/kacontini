@@ -3,12 +3,11 @@
 ##
 
 - :orange_book: Estudante de Análise e Desenvolvimento de Sistemas pela FIAP (Conclusão em Dez/23)
-
 ##
   
 <div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kacontini&theme=dracula&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacontini&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kacontini&theme=dracula&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacontini&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
